@@ -15,6 +15,23 @@ For å lese mer om dette, klikk på pdf-filen "NOSQL.pdf".
 Resolusjonen er bedre hvis du laster ned dokumentet.
 
 
+## Framvisning av dataene i powerBI
+
+Man kan se på noen av grafene at ved historisk lav magainsylling grunnet tørke, har det vært historisk høye kraftpriser
+
+<img width="848" height="495" alt="image" src="https://github.com/user-attachments/assets/cf6fe0db-53b6-4099-a655-702a78500287" />
+
+
+<img width="849" height="469" alt="image" src="https://github.com/user-attachments/assets/e73dac1f-0935-4c78-bd75-f47f190b4a5d" />
+
+
+<img width="851" height="489" alt="image" src="https://github.com/user-attachments/assets/79379354-3e9c-4534-8361-8a67b5cb6d66" />
+
+<img width="1216" height="685" alt="image" src="https://github.com/user-attachments/assets/73f90ed2-371b-4259-badf-fb309178317c" />
+
+
+
+
 # Design av databasene
 ## Neo4j eksempel
 Node for et elspotområde:
@@ -55,20 +72,6 @@ Eksempel på en dataframe som viser kraftproduksjon
 <img width="759" height="550" alt="image" src="https://github.com/user-attachments/assets/66643ddf-f7f0-4aaa-9308-1a8c779f19e3" />
 
 
-
-## Framvisning av dataene i powerBI
-
-Man kan se på noen av grafene at ved historisk lav magainsylling grunnet tørke, har det vært historisk høye kraftpriser
-
-<img width="848" height="495" alt="image" src="https://github.com/user-attachments/assets/cf6fe0db-53b6-4099-a655-702a78500287" />
-
-
-<img width="849" height="469" alt="image" src="https://github.com/user-attachments/assets/e73dac1f-0935-4c78-bd75-f47f190b4a5d" />
-
-
-<img width="851" height="489" alt="image" src="https://github.com/user-attachments/assets/79379354-3e9c-4534-8361-8a67b5cb6d66" />
-
-<img width="1216" height="685" alt="image" src="https://github.com/user-attachments/assets/73f90ed2-371b-4259-badf-fb309178317c" />
 
 
 
